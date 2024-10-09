@@ -4,7 +4,7 @@ Color Space Utilities for C#
 This little utility library provides a set of classes to convert between different color spaces.
 Initial version was created by [Uwe Keim](https://gist.github.com/UweKeim) and is available as a [GitHub Gist](https://gist.github.com/UweKeim/fb7f829b852c209557bc49c51ba14c8b).
 
-I refactored his code a bit, fixed several bugs, made a NuGet package out of it.
+I refactored his code a bit, and fixed several bugs. Will make a NuGet package out of it later :)
 
 The following color spaces are supported:
 
