@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSpaces", "ColorSpaces\ColorSpaces.csproj", "{0EEB076A-017D-437A-BCC0-46C70639806D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSample", "WpfSample\WpfSample.csproj", "{F4E894CA-43ED-4F27-A709-BD38D12041DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEB076A-017D-437A-BCC0-46C70639806D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEB076A-017D-437A-BCC0-46C70639806D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEB076A-017D-437A-BCC0-46C70639806D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEB076A-017D-437A-BCC0-46C70639806D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E894CA-43ED-4F27-A709-BD38D12041DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E894CA-43ED-4F27-A709-BD38D12041DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E894CA-43ED-4F27-A709-BD38D12041DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E894CA-43ED-4F27-A709-BD38D12041DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
